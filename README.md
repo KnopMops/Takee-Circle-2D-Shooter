@@ -2,7 +2,7 @@
 
 # -------------------------Установка-------------------------
 npm i -D nodemon
-npm i express
+npm i express socket.io
 
 # -------------------------Старт-------------------------
 npm start ---> для страта сервера"# Takee-Circle-2D-Shooter" 
